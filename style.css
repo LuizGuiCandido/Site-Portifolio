@@ -11,6 +11,7 @@ html{
 body{
     background-color: #020617;
     font-family: 'Inter', sans-serif;
+    user-select: none;
 }
 
 h1,h2,h3,h4{
